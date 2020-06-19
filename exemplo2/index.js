@@ -91,7 +91,3 @@ server.start((err) => {
     }
     console.log(`Server hapi: ${server.info.uri}`);
 });
-
-
-
-// module.exports = horseman

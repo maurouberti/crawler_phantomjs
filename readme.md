@@ -2,7 +2,7 @@
 
 ### Exemplo 1
 
-Abre uma pagina, preenche um input text, clica em um botão e conta as **<table>**.
+Abre uma pagina, preenche um input text, clica em um botão e conta as **table**.
 
 ### Exemplo 2
 
