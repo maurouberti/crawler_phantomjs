@@ -1,0 +1,20 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.7.0",
+    "mongoose": "^5.9.19",
+    "node-horseman": "^3.3.0",
+    "phantomjs": "^2.1.7",
+    "request": "^2.88.2",
+    "tesseract.js": "^2.1.1"
+  }
+}
